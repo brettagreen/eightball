@@ -1,3 +1,4 @@
+import './Box.css';
 const Box = (props) => {
 
     return (
